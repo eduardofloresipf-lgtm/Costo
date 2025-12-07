@@ -49,6 +49,3 @@ pred = (
 
 st.subheader("Predicción del costo ($)")
 st.write("El costo estimado es:", round(pred, 2))
-
-st.write("MSE:", 34468.43428658211)
-st.write("R²:", 0.30114686805946334)
